@@ -1,6 +1,4 @@
 
-Avinash Rasala
-
 
 
 # 📊 GitHub Stats:
